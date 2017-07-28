@@ -1,6 +1,5 @@
-##Panupan?
-""""""""""""""""""""""""""
->>>>>>> 7d6f480501a4b4a2e9d607e0b22a64363aa9168c
+##Panupan XXX
+
 
 # Laravel PHP Framework
 
